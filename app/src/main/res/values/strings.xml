@@ -7,7 +7,7 @@
     <string name="nome">Nome</string>
     <string name="cidade">Cidade</string>
     <string name="id">Id</string>
-    <string name="nascimento">Data de Nascimento</string>
+    <string name="nascimento">Data de Nascimento (yyyy-MM-dd)</string>
     <string name="altura">Altura</string>
     <string name="peso">Peso</string>
     <string name="inserir">Inserir</string>
